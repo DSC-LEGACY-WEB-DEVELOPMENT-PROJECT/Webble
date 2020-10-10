@@ -1,5 +1,4 @@
 <h1>Webble</h1>
-<label>hacktoberfest</label>
 
 Webble is a open source project on web development components, having the vision to turn it into a library. It will help developers build awesome looking websites in a easy and faster way. 
 
