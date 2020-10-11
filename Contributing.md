@@ -64,7 +64,7 @@ Go to your repository on GitHub, you'll see a `Compare & pull request` button. C
 
 Now submit the pull request
 
-![Pull Request](https://opensource.com/sites/default/files/uploads/open-a-pull-request_crop.png)
+![Pull Request](Images/Open-Pull-Request.png)
 
 Congratulations on your new Contribution!
 
