@@ -10,7 +10,7 @@ This document contains certain rules and guidelines that developers are expected
 
 - A fork would place a copy of this project in your GitHub Account
 
-![Fork](https://i.imgur.com/7wapvt2.png)
+![Fork](Images/Fork.png)
 
 ### Step 2: Clone the repository
 
@@ -60,7 +60,7 @@ Push your changes using the command `git push origin <your-branch-name>`
 
 Go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on it.
 
-![Compare & Pull Request](Images/)
+![Compare & Pull Request](Images/Compare-Pull-Request.png)
 
 Now submit the pull request
 
