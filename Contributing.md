@@ -17,7 +17,7 @@ This document contains certain rules and guidelines that developers are expected
 - Cloning the repository will place a local copy of project on your own machine
 - Copy the URL from the copy to clipboard icon
 
-  ![Copy To Clipboard](Screenshots/Click-Copy-Icon.png)
+  ![Copy To Clipboard](Images/Click-Copy-Icon.png)
 - Open a terminal and run the following git command :
 
 `git clone https://github.com/<your-user-name>/Webble.git`
@@ -60,7 +60,7 @@ Push your changes using the command `git push origin <your-branch-name>`
 
 Go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on it.
 
-![Compare & Pull Request](https://raw.githubusercontent.com/dsc-iem/AppDev-Hacktoberfest/master/Screenshots/Compare-Pull-Request.png)
+![Compare & Pull Request](Images/)
 
 Now submit the pull request
 
